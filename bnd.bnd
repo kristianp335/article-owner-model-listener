@@ -1,0 +1,3 @@
+Bundle-Name: article-owner-model-listener
+Bundle-SymbolicName: com.liferay.kris.model.listener
+Bundle-Version: 1.0.0
